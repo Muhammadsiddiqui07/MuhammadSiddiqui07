@@ -13,7 +13,7 @@
 ### 🧠 About Me
 
 * 🎓 **Undergraduate Computer Science Student** passionate about software development.
-* 💻 Skilled in **MERN Stack** and **Flutter** for full-stack and mobile development.
+* 💻 Skilled in **MERN Stack**  for Full-Stack Web Development.
 * 🧩 Experienced with **MongoDB, Firebase, Redux Toolkit, React Bootstrap, Ant Design**.
 * 🚀 Interested in **Open Source**, **Web Security**, and **Scalable Systems**.
 * 🧠 Learning **Advanced MERN**, **System Design**, and **Cloud Deployment**.
