@@ -21,7 +21,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,nodejs,express,mongodb,git,github,firebase,python,,c#," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,nodejs,express,mongodb,git,github,firebase,python,,cSharp," />
 </p>
 
 ### Languages Used!
